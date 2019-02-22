@@ -1,0 +1,8 @@
+userType,start,end,discountPerc
+Standard,1000,3000,10
+Standard,3000,5000,15
+Standard,5000,999999,20
+Premimum,500,1000,10
+Premimum,1000,3000,15
+Premimum,3000,5000,20
+Premimum,5000,999999,25
